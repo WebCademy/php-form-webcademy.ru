@@ -1,4 +1,4 @@
-# Форма обратной связи на PHP [WebCademy.ru](https://vk.com/webcademy)
+# Форма обратной связи на PHP [WebCademy.ru](https://WebCademy.ru){:target="\_blank"}
 
 Код к урокам по созданию формы обратной связи.
 
@@ -10,8 +10,8 @@
 
 ### Полезные ссылки:
 
--   [Группа WebCademy Вконтакте](https://vk.com/webproriv)
--   [Сайт WebCademy](https://webcademy.ru)
+-   [Группа WebCademy Вконтакте](https://vk.com/webcademy){:target="\_blank"}
+-   [Сайт WebCademy](https://webcademy.ru){:target="\_blank"}
 
 #### Хочешь научиться создавать сайты, получить профессию веб-разработчик и начать зарабатывать на веб-разработке?
 
@@ -25,12 +25,12 @@
 
 **Приходи на курсы по веб-разработке от онлайн школы ВебКадеми**:
 
--   Создание и верстка сайтов. HTML и CSS: [https://webcademy.ru/htmlstart/](https://webcademy.ru/htmlstart/)
+-   Создание и верстка сайтов. HTML и CSS: [https://webcademy.ru/htmlstart/](https://webcademy.ru/htmlstart/){:target="\_blank"}
 
--   Продвинутая верстка. Командная работа. Git, GitHub, PUG, SCSS, BEM: [https://webcademy.ru/htmlpro/](https://webcademy.ru/htmlpro/)
+-   Продвинутая верстка. Командная работа. Git, GitHub, PUG, SCSS, BEM: [https://webcademy.ru/htmlpro/](https://webcademy.ru/htmlpro/){:target="\_blank"}
 
--   JavaScript фронтэнд разработчик: [https://webcademy.ru/jscourse/](https://webcademy.ru/jscourse/)
+-   JavaScript фронтэнд разработчик: [https://webcademy.ru/jscourse/](https://webcademy.ru/jscourse/){:target="\_blank"}
 
--   Разработка сайтов на PHP. Бэкенд разработчик: [https://webcademy.ru/phpcourse/](https://webcademy.ru/phpcourse/)
+-   Разработка сайтов на PHP. Бэкенд разработчик: [https://webcademy.ru/phpcourse/](https://webcademy.ru/phpcourse/){:target="\_blank"}
 
 ---
